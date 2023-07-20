@@ -1,0 +1,17 @@
+version: "3.3"
+
+services:
+  db:
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "5432:5432"
+  api:
+    depends_on:
+      - db
+    build:
+      context: ./api/
+    ports:
+      - "8080:8080"
