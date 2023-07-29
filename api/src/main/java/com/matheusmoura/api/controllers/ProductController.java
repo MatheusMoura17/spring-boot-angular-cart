@@ -51,9 +51,4 @@ public class ProductController {
     productService.delete(id);
     return "Produto " + id + " removido com sucesso!";
   }
-
-  @PostMapping("/seed")
-  public List<Product> seed() {
-    return productService.seed();
-  }
 }
