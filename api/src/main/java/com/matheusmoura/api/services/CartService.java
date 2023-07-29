@@ -43,7 +43,36 @@ public class CartService {
       cart.addProduct(product, amount);
     }
 
-    return cartRepository.save(cart);
+    return cartRepository.saveAndFlush(cart);
+  }
+
+  public Cart removeProduct(Long cartId, Long productId, Integer amount) {
+    if (!cartRepository.existsById(cartId)) {
+      throw new CartNotExistsException(cartId);
+    }
+
+    if (!productRepository.existsById(productId)) {
+      throw new ProductNotFoundException(productId);
+    }
+
+    if (amount <= 0) {
+      throw new CartException("A quantidade deve ser maior que 0");
+    }
+
+    var cart = cartRepository.findById(cartId).get();
+    var product = productRepository.findById(productId).get();
+
+    if (!cart.hasProduct(product)) {
+      throw new CartException("Produto não existe no carrinho");
+    }
+
+    cart.decrementProductAmount(product, amount);
+
+    if (cart.getProductAmount(product) <= 0) {
+      cart.removeProduct(product);
+    }
+
+    return cartRepository.saveAndFlush(cart);
   }
 
   public Cart get(Long id) {

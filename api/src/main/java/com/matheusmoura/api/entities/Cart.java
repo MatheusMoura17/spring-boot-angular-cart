@@ -31,7 +31,7 @@ public class Cart {
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
-  @OneToMany(mappedBy = "cart", cascade = CascadeType.ALL)
+  @OneToMany(mappedBy = "cart", cascade = CascadeType.ALL, orphanRemoval = true)
   private Set<CartItem> cartItems;
 
   public double getTotalPrice() {
@@ -49,11 +49,20 @@ public class Cart {
   }
 
   public boolean hasProduct(Product product) {
-    return cartItems.stream().anyMatch(cartItem -> cartItem.getProduct().getId().equals(product.getId()));
+    return cartItems.stream().anyMatch(cartItem -> cartItem.getProduct().equals(product));
   }
 
   public void removeProduct(Product product) {
-    cartItems.removeIf(cartItem -> cartItem.getProduct().getId().equals(product.getId()));
+    cartItems.removeIf(cartItem -> cartItem.getProduct().equals(product));
+  }
+
+  public Integer getProductAmount(Product product) {
+    var cartItem = cartItems.stream()
+        .filter(item -> item.getProduct().equals(product))
+        .findFirst()
+        .get();
+
+    return cartItem.getAmount();
   }
 
   public void incrementProductAmount(Product product, Integer amount) {
@@ -75,8 +84,8 @@ public class Cart {
         .findFirst()
         .get();
 
-    if (cartItem.getAmount() - amount < 0) {
-      throw new CartException("Quantidade de produtos não pode ser menor que 0");
-    }
+    var normalizedAmount = Math.max(cartItem.getAmount() - amount, 0);
+
+    cartItem.setAmount(normalizedAmount);
   }
 }

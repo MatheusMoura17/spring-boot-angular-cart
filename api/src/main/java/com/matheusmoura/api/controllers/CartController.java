@@ -27,4 +27,9 @@ public class CartController {
   public Cart addProduct(@RequestParam Long cartId, @RequestParam Long productId, @RequestParam Integer amount) {
     return cartService.addProduct(cartId, productId, amount);
   }
+
+  @PostMapping("/remove-product")
+  public Cart removeProduct(@RequestParam Long cartId, @RequestParam Long productId, @RequestParam Integer amount) {
+    return cartService.removeProduct(cartId, productId, amount);
+  }
 }
