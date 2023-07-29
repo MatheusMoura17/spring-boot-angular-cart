@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Abacate (Persea americana)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ab/ac/abacate-cke.jpg",
+    "description": "Originário da América Central, o abacate possui vitaminas A, B, C, D, E, proteínas, cálcio, magnésio, fósforo, ferro e potássio. O Brasil é, provavelmente, o único lugar do mundo que o consome como sobremesa, utilizando açúcar e leite. Em outros países, é usado como um alimento temperado com sal e azeite.",
+    "quantity": 10,
+    "price": 7.41
+  },
+  {
+    "id": 2,
+    "title": "Abacaxi (Ananas comosus)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ab/ac/abacaxi-0-cke.jpg?width=50&auto_optimize=low",
+    "description": "Encontrado originalmente em toda a América do Sul tropical, o abacaxi é rico em vitamina C e contribui para o funcionamento do sistema imunológico. Também auxilia na perda de peso e alívio das dores musculares.",
+    "quantity": 10,
+    "price": 4.96
+  },
+  {
+    "id": 3,
+    "title": "Açaí (Euterpe oleracea)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta3-0-cke.jpg?width=50&auto_optimize=low",
+    "description": "Uma das frutas brasileiras mais conhecidas em todo o mundo e típica da Amazônia. O açaí é um alimento altamente energético, rico em cálcio, sais minerais, fósforo e ferro. Pode ser consumido a partir da preparação do seu vinho ou suco e também associado com granola, mel e outras frutas, ou ainda em pratos salgados.",
+    "quantity": 10,
+    "price": 7.45
+  },
+  {
+    "id": 4,
+    "title": "Acerola (Malpighia emarginata)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ac/er/acerola-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária da América Central, a acerola é fonte de vitamina C e auxilia no combate a doenças respiratórias. É consumida natural ou ainda como suco, doces, geleias e sorvetes.",
+    "quantity": 10,
+    "price": 5.41
+  },
+  {
+    "id": 5,
+    "title": "Amora (Morus alba)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/am/or/amora-cke.jpg?width=50&auto_optimize=low",
+    "description": "A amora é uma fruta rica em vitaminas A, C e K e possui propriedades anti-inflamatórias. Ela contribui para combater a anemia e o envelhecimento. Seu consumo pode ser in natura ou ainda utilizada no preparo de sobremesas ou sucos.",
+    "quantity": 10,
+    "price": 2.06
+  },
+  {
+    "id": 6,
+    "title": "Araticum (Annona coriacea)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ar/at/araticummelhorar.jpg?width=50&auto_optimize=low",
+    "description": "O Araticum é uma fruta típica do Cerrado brasileiro. Ela possui ferro, potássio, cálcio, vitaminas C, A, B1 e B2 e tem peso médio de 2 kg. O araticum ainda possui antioxidantes que auxiliam na prevenção de doenças degenerativas. Apresenta aroma forte, polpa doce e amarelada, sendo consumida in natura ou em forma de doces, sucos, iogurte, geleias e sorvetes.",
+    "quantity": 10,
+    "price": 3.06
+  },
+  {
+    "id": 7,
+    "title": "Bacaba (Oenocarpus bacaba)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ba/ca/bacaba-cke.jpg?width=50&auto_optimize=low",
+    "description": "Nativa da Amazônia, a partir desta fruta prepara-se o vinho que pode ser consumido com farinha de mandioca e açúcar. O óleo de bacaba é também muito utilizado na pele, especialmente por agir de forma nutritiva e revitalizante. É uma fruta rica em proteínas e carboidratos, sendo recomendada para atletas.",
+    "quantity": 10,
+    "price": 3.12
+  },
+  {
+    "id": 8,
+    "title": "Banana (Musa sp.)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ba/na/banana-0-cke.jpg?width=50&auto_optimize=low",
+    "description": "Rica em minerais e vitaminas que auxiliam no sistema imunológico, a banana podem ser consumida fresca, cozida, frita, assada ou desidratada. Importante lembrar que existe uma grande variedade de bananas no mundo, no Brasil as mais conhecidas são: nanica, ouro, maçã, prata e da terra.",
+    "quantity": 10,
+    "price": 5.78
+  },
+  {
+    "id": 9,
+    "title": "Biribá (Rollinia mucosa)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/bi/ri/biriba-cke.jpg?width=50&auto_optimize=low",
+    "description": "Típica da Amazônia, o biribá é uma fruta de sabor suave e adocicado, sendo muito consumida em estado natural. Também é utilizada para preparação de sucos e sorvetes. O consumo do biribá auxilia no funcionamento intestinal e fortalece o sistema imunológico. É rica em vitamina C e potássio, além de apresentar proteínas, lipídeos, fibras e sais minerais.",
+    "quantity": 10,
+    "price": 1.39
+  },
+  {
+    "id": 10,
+    "title": "Cacau (Theobroma cacao)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ca/ca/cacau-cke.jpg?width=50&auto_optimize=low",
+    "description": "De origem brasileira, da região Amazônica, o cacau é a matéria-prima do chocolate. Essa fruta é rica em fibras e minerais, como ferro, fósforo e cálcio. Também pode ser consumida como suco.",
+    "quantity": 10,
+    "price": 3.33
+  },
+  {
+    "id": 11,
+    "title": "Cajá (Spondias mombin)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta11-cke.jpg?width=50&auto_optimize=low",
+    "description": "O cajá é uma fruta rica em sais minerais. Com um sabor agridoce e uma polpa suculenta, ela auxilia no cansaço mental, estresse, insônia e inflamações na garganta. É rica em fibras que auxiliam no funcionamento do intestino, em vitaminas C e minerais que fortalecem os ossos.",
+    "quantity": 10,
+    "price": 2.31
+  },
+  {
+    "id": 12,
+    "title": "Caqui (Diospyros kaki)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ca/qu/caqui-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originário da China, o caqui possui vitaminas A, B1, B2 e E, além de cálcio, ferro e proteínas. Essa fruta tem a aparência muito semelhante a de um tomate. Pode ser consumida in natura, ou ainda em preparos de sobremesas, geleias e sorvete.",
+    "quantity": 10,
+    "price": 4.26
+  },
+  {
+    "id": 13,
+    "title": "Carambola (Averrhoa carambola)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ca/ra/carambola-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária do Sudeste da Ásia, a carambola contém vitaminas A, B e C. Ela auxilia o sistema imunológico na defesa do organismo e ajuda a reduzir a taxa de glicose no sangue. Apresenta sabor agridoce, podendo ser utilizada em preparos doces e na composição de saladas.",
+    "quantity": 10,
+    "price": 8.96
+  },
+  {
+    "id": 14,
+    "title": "Cereja (Prunus avium)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ce/re/cereja-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária da Ásia, a cereja é uma fruta rica em vitaminas A, B e C, cálcio, fósforo, ferro e vitaminas. Ela contribui para a redução do reumatismo, gota, artrite e dores musculares. Seu consumo pode ser in natura ou no preparo de compostas.",
+    "quantity": 10,
+    "price": 5.41
+  },
+  {
+    "id": 15,
+    "title": "Cidra (Citrus medica)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ci/dr/cidra-cke.jpg?width=50&auto_optimize=low",
+    "description": "A cidra assemelha-se a um limão gigante sem forma regular e pode pesar até 5 kg. Possui as vitaminas A, B1, B2, B5 e C, além de ferro, fósforo e cálcio. É uma fruta que contém grande concentração de ácido cítrico. É muito utilizada para compotas doces.",
+    "quantity": 10,
+    "price": 9.82
+  },
+  {
+    "id": 16,
+    "title": "Coco (Cocos nucifera L.)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta16-cke.jpg?width=50&auto_optimize=low",
+    "description": "O coco é uma fruta rica em gorduras boas, sais minerais e fibras. Sua polpa é branca e o interior com água. Ele pode ser consumido quando verde ou maduro. O coco possui duas partes comestíveis, o fruto e a água. Quando o coco está verde sua polpa apresenta consistência mole, sendo consumido de colher. Já quando está maduro (seco) é possível consumir em pedaços ou utilizar para extração de leite e óleo.",
+    "quantity": 10,
+    "price": 8.26
+  },
+  {
+    "id": 17,
+    "title": "Cupuaçu (Theobroma grandiflorum)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/cu/pu/cupuacu-cke.jpg?width=50&auto_optimize=low",
+    "description": "Típica da Amazônia, seu uso mais comum é em forma de cremes, sorvetes e sucos. De suas sementes é possível a fabricação de chocolate e doces. O consumo do cupuaçu é indicado como fonte de energia. Possui ácidos graxos que auxiliam na diminuição do colesterol, além de vitamina A e C, vitaminas B1, B2 e B3, fibras e sais minerais como cálcio, fósforo e selênio.",
+    "quantity": 10,
+    "price": 4.47
+  },
+  {
+    "id": 18,
+    "title": "Figo (Ficus carica L.)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta18-0-cke.jpg?width=50&auto_optimize=low",
+    "description": "O figo é uma fruta que possui alto índice de açúcar, potássio, cálcio e fósforo. Rico em fibras, ele auxilia na redução do colesterol sanguíneo. Também combate as infecções respiratórias e inflamações devido às suas propriedades. Geralmente é consumido fresco ou em compotas e geleias.",
+    "quantity": 10,
+    "price": 7.79
+  },
+  {
+    "id": 19,
+    "title": "Framboesa (Rubus idaeus)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/am/framboesa-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária da Europa e parte da Ásia, a framboesa é fonte de vitaminas, cálcio, fósforo e ferro. Essa fruta atua contra o envelhecimento celular e previne algumas doenças. Pode ser consumida in natura, na forma de chá e sucos.",
+    "quantity": 10,
+    "price": 7.21
+  },
+  {
+    "id": 20,
+    "title": "Goiaba (Psidium guayava)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/go/ai/goaiaba-cke.jpg?width=50&auto_optimize=low",
+    "description": "Nativa da América Central, a goiaba é uma fruta bastante cultivada e apreciada no Brasil. Rica em vitamina C, ela possui vitaminas A, E e quase todas do complexo B, além de minerais, em menor quantidade. A goiaba é muito utilizada na fabricação de doces, sendo que a mais conhecida é a goiabada.\n",
+    "quantity": 10,
+    "price": 8.62
+  },
+  {
+    "id": 21,
+    "title": "Groselha (Ribes rubrum)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/gr/os/groselha-0-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária da Europa e Ásia, a groselha é rica em vitamina C e potássio. Possui também cálcio, fósforo, ferro, enxofre, magnésio e proteínas. A fruta atua na prevenção contra o câncer, envelhecimento, inflamação e doenças neurológicas. A groselha é utilizada para fazer sucos.",
+    "quantity": 10,
+    "price": 6.47
+  },
+  {
+    "id": 22,
+    "title": "Ingá (Inga edulis)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta22-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária da Amazônia, a polpa da fruta envolve a semente, sendo consumida em estado natural. O ingá apresenta uma polpa branca e adocicada e é rica em sais minerais. Pode ser utilizado ainda como chá para cicatrizante e como xarope no tratamento de bronquite.",
+    "quantity": 10,
+    "price": 8.06
+  },
+  {
+    "id": 23,
+    "title": "Jabuticaba (Myrciaria cauliflora)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ja/bu/jabuticaba-cke.jpg?width=50&auto_optimize=low",
+    "description": "A jabuticaba é uma fruta com casca cor roxa escura ou preta e interior branco. Com uma polpa suculenta, ela é rica em vitaminas do complexo B. A utilização da casca da jabuticaba é muito comum em chás, que auxiliam na redução e combate de inflamações e envelhecimento da pele. Pode ser consumida in natura, sorvete, geleias e licores.",
+    "quantity": 10,
+    "price": 2.51
+  },
+  {
+    "id": 24,
+    "title": "Jaca (Artocarpus heterophyllus)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta24-cke.jpg?width=50&auto_optimize=low",
+    "description": "Nativa da Ásia, a jaca possui cálcio, potássio, ferro, fósforo e vitaminas A, B e C. Essa fruta pode pesar até 15 kg. Seu consumo auxilia no combate a pressão alta e prevenção de doenças cardiovasculares. A alta quantidade de fibras favorece a digestão e contribui com transtornos digestivos.",
+    "quantity": 10,
+    "price": 2.21
+  },
+  {
+    "id": 25,
+    "title": "Jambo (Syzygium jambos)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ja/mb/jambo-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originário da Ásia, o jambo possui ferro, fósforo, proteínas, carboidratos e vitamina A, B1 e B2. Possui baixo valor calórico e fortalece o sistema imunológico. Com um gosto refrescante, ele é consumido de forma natural.",
+    "quantity": 10,
+    "price": 2.33
+  },
+  {
+    "id": 26,
+    "title": "Jenipapo (Genipa americana L.)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/je/ni/jenipapo-cke.jpg?width=50&auto_optimize=low",
+    "description": "O jenipapo é uma fruta que tem alta concentração de ferro e cálcio. Apresenta suco de cor forte, que era utilizada pelos índios para pintar o corpo. Possui polpa suculenta, de aroma forte e sabor ácido e doce. A fruta é indicada para inflamações intestinais, anemia e asma.",
+    "quantity": 10,
+    "price": 3.2
+  },
+  {
+    "id": 27,
+    "title": "Kiwi (Actinidia deliciosa)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta27kiwi-cke.jpg?width=50&auto_optimize=low",
+    "description": "O kiwi é uma fruta rica em fibras e vitaminas. Considerado um alimento importante contra o câncer e proteção do DNA, a sua casca também pode ser consumida.",
+    "quantity": 10,
+    "price": 4.55
+  },
+  {
+    "id": 28,
+    "title": "Laranja (Citrus sinensis)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/la/ra/laranja-cke.jpg?width=50&auto_optimize=low",
+    "description": "Rica em vitamina C, a laranja é uma fruta rica em ácido cítrico. Indicada para prevenir câncer, ela fortalece o sistema imunológico, reduz o colesterol e protege o coração. A laranja é consumida in natura, em forma de sucos e no preparo de sobremesas.",
+    "quantity": 10,
+    "price": 3.53
+  },
+  {
+    "id": 29,
+    "title": "Limão (Citrus limon)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/li/ma/limao-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originário da Ásia, o limão é fonte de vitamina C e minerais. Ele contribui na melhoria da digestão, fortalece o sistema imunológico, ajuda a manter o peso e evita o envelhecimento precoce. É consumido como tempero de pratos salgados e também no preparo de sucos e sobremesas.",
+    "quantity": 10,
+    "price": 9.85
+  },
+  {
+    "id": 30,
+    "title": "Maçã (Malus domestica)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta30maca-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária da Ásia e Europa, a maçã é uma fruta que auxilia na prevenção de doenças. Possui vitaminas A, B1, B2, C e K, ferro e fósforo. Apresenta substâncias e nutrientes que auxiliam no sistema imunológico.",
+    "quantity": 10,
+    "price": 9.12
+  },
+  {
+    "id": 31,
+    "title": "Mamão (Carica papaya)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ma/ma/mamao-cke.jpg?width=50&auto_optimize=low",
+    "description": "O mamão é uma fruta rica em vitaminas e minerais, como vitaminas C e E, cálcio, fósforo, ferro. Ele auxilia a digestão e combate a constipação intestinal, além de melhorar a aparência da pele. Os tipos mais comuns no Brasil são o formosa e o papaya.",
+    "quantity": 10,
+    "price": 2.4
+  },
+  {
+    "id": 32,
+    "title": "Manga (Mangifera indica)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ma/ng/manga-cke.jpg?width=50&auto_optimize=low",
+    "description": "Nativa da Índia, a manga possui quantidades significativas de açúcar, vitaminas e minerais. Ela é indicada para combater anemia devido sua alta concentração de ferro.",
+    "quantity": 10,
+    "price": 8.94
+  },
+  {
+    "id": 33,
+    "title": "Mangaba (Hancornia speciosa)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ma/ng/mangaba.jpg?width=50&auto_optimize=low",
+    "description": "A mangaba é uma fruta típica do Cerrado, possui baixa caloria e vitaminas A, C, B1 e B2, além de proteínas, ferro, cálcio e fósforo. Ela auxilia no controle da pressão arterial e no sistema imunológico. Pode ser consumida in natura ou em forma de doces, sucos e sorvetes.",
+    "quantity": 10,
+    "price": 8.03
+  },
+  {
+    "id": 34,
+    "title": "Maracujá (Passiflora edulis)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ma/ra/maracuja-cke.jpg?width=50&auto_optimize=low",
+    "description": "Amplamente encontrado em regiões tropicais, o maracujá é muito conhecido pelo seu poder calmante. Possui vitaminas A, C e do complexo B, além de ferro, sódio, cálcio e fósforo. Tem um sabor ácido e pode ser consumido in natura e no preparo de sobremesas e sucos.",
+    "quantity": 10,
+    "price": 4.68
+  },
+  {
+    "id": 35,
+    "title": "Melancia (Citrullus lanatus)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/me/la/melancia-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originária da África, a melancia é rica em água, o que a torna muito refrescante. Possui açúcar, cálcio, fósforo e ferro e apresenta capacidade antioxidante e anti-inflamatória.",
+    "quantity": 10,
+    "price": 4.98
+  },
+  {
+    "id": 36,
+    "title": "Melão (Cucumis melo)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/me/la/melao-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originário da África, o melão é uma fruta rica em água e possui quantidades significativas de cálcio, fósforo e ferro. É rico em vitamina A e C, que auxiliam na produção de colágeno e prevenção do envelhecimento.",
+    "quantity": 10,
+    "price": 3.34
+  },
+  {
+    "id": 37,
+    "title": "Morango (Fragaria vesca)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/mo/ra/morango-cke.jpg?width=50&auto_optimize=low",
+    "description": "Originário da Europa, o morango possui vitaminas C, A, E, B5 e B6, além de cálcio, potássio, ferro, selênio e magnésio. Essa fruta é indicada para fortalecer o sistema imunológico e processos de cicatrização. Possui um sabor adocicado e ácido, podendo ser consumido in natura, em sucos e no preparo de sobremesas.",
+    "quantity": 10,
+    "price": 6.9
+  },
+  {
+    "id": 38,
+    "title": "Pequi (Caryocar brasiliense)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/pe/qu/pequi-cke.jpg?width=50&auto_optimize=low",
+    "description": "Fruto da planta nativa símbolo do Cerrado, o pequizeiro. O pequi é rico em vitamina A e C, sendo bastante apreciado na alimentação, tanto em pratos salgados quanto doces, além de licores.",
+    "quantity": 10,
+    "price": 1.74
+  },
+  {
+    "id": 39,
+    "title": "Pera (Pyrus communis)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta39pera-cke.jpg?width=50&auto_optimize=low",
+    "description": "A pera é uma fruta rica em sódio, potássio, ferro, magnésio e cálcio. Ajuda a melhorar a prisão de ventre, perder peso e controlar a diabetes. Além disso, ela contribui para o funcionamento do sistema imunológico.",
+    "quantity": 10,
+    "price": 1.13
+  },
+  {
+    "id": 40,
+    "title": "Pêssego (Prunus persica)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/pe/ss/pessego-cke.jpg?width=50&auto_optimize=low",
+    "description": "O pêssego é uma fruta rica em antioxidantes. Ele possui os minerais fósforo, magnésio, manganês, cobre, iodo e ferro, além de vitaminas A, C e do complexo B. Apresenta um sabor suave e adocicado, sendo consumido em sua forma natural ou ainda em compota.",
+    "quantity": 10,
+    "price": 4.29
+  },
+  {
+    "id": 41,
+    "title": "Pitanga (Eugenia uniflora)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/pi/ta/pitanga-cke.jpg?width=50&auto_optimize=low",
+    "description": "A pitanga é uma fruta vermelha e de sabor adocicado e ácido. Apresenta como principais nutrientes o potássio, sais minerais e vitamina C. Ela é indicada para artrite, diarreia, febre, gota e reumatismo.\n",
+    "quantity": 10,
+    "price": 8.87
+  },
+  {
+    "id": 42,
+    "title": "Pitaya (Hylocereus guatemalensis)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/pi/ta/pitaya.jpg?width=50&auto_optimize=low",
+    "description": "Fruta exótica nativa da América Tropical, a pitaya apresenta uma polpa que pode ser branca ou roxa. Rica em proteínas, vitamina C, ferro e cálcio, ela possui propriedades digestivas. É consumida in natura, sucos, geleias e doces.",
+    "quantity": 10,
+    "price": 8.55
+  },
+  {
+    "id": 43,
+    "title": "Pupunha (Bactris gasipaes)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/pu/pu/pupunha-cke.jpg?width=50&auto_optimize=low",
+    "description": "Típico da Amazônia, a pupunha é uma fruta rica em proteínas, carboidratos e minerais. Apresenta, ainda, alto teor de vitamina A. Seus nutrientes auxiliam no fortalecimento do sistema imunológico. Seus frutos são cozidos com sal antes de serem consumidos.",
+    "quantity": 10,
+    "price": 5.46
+  },
+  {
+    "id": 44,
+    "title": "Romã (Punica granatum L.)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta44roma-cke.jpg?width=50&auto_optimize=low",
+    "description": "De origem asiática, o romã é uma fruta vermelha com interior repleto de sementes. Com sabor ácido, sua casca é utilizada no preparo de chá, auxiliando no tratamento de inflamações bucais e garganta. As sementes podem ser consumidas cruas.",
+    "quantity": 10,
+    "price": 4.68
+  },
+  {
+    "id": 45,
+    "title": "Siriguela (Spondias purpúrea)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/si/ri/siriguela-cke.jpg?width=50&auto_optimize=low",
+    "description": "Fonte de vitaminas A, B e C, a siriguela apresenta uma rica quantidade de cálcio, fósforo e ferro. Possui sabor doce e quando madura apresenta cor avermelhada. Essa fruta é utilizada no tratamento de anemias e auxilia o sistema imunológico.",
+    "quantity": 10,
+    "price": 2.6
+  },
+  {
+    "id": 46,
+    "title": "Tâmara (Phoenix dactylifera)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ta/ma/tamara-cke.jpg?width=50&auto_optimize=low",
+    "description": "A tâmara tem origem no Golfo Pérsico, sendo uma fruta de sabor agridoce. Com uma cor avermelhada, ela é rica em carboidratos, fibras, potássio, ferro e cálcio. Ela auxilia na redução da pressão arterial, na saúde dos ossos e no alívio da prisão de ventre.",
+    "quantity": 10,
+    "price": 8.72
+  },
+  {
+    "id": 47,
+    "title": "Tamarindo (Tamarindus indica)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ta/ma/tamarindo-cke.jpg?width=50&auto_optimize=low",
+    "description": "O tamarindo é uma fruta marrom de sabor doce e azedo. Ele é considerado um laxante natural, sendo muito utilizado na prisão de ventre. Pode ser feito consumo das folhas, flores e sementes.",
+    "quantity": 10,
+    "price": 1.19
+  },
+  {
+    "id": 48,
+    "title": "Tangerina (Citrus reticulata)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/ta/ng/tangerina-cke.jpg?width=50&auto_optimize=low",
+    "description": "A tangerina é fonte das vitaminas A e C, além de sais minerais, como cálcio e fósforo. Contribui para evitar problemas cardíacos, colesterol alto, diabetes e hipertensão. Seu sabor é ácido e adocicado, sendo utilizado com frequência na produção de geleias.",
+    "quantity": 10,
+    "price": 5.41
+  },
+  {
+    "id": 49,
+    "title": "Tucumã (Astrocaryum aculeatum)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/tu/cu/tucuma-cke.jpg?width=50&auto_optimize=low",
+    "description": "De origem amazônica, o tucumã apresenta alto teor de vitamina A, vitamina B1 e vitamina C. Ele é consumido em estado natural e também é utilizado para preparação de licor e sorvetes.",
+    "quantity": 10,
+    "price": 5.96
+  },
+  {
+    "id": 50,
+    "title": "Uva verde (Vitis sp.)",
+    "pictureUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta50uva-cke.jpg?width=50&auto_optimize=low",
+    "description": "A uva verde possui vitamina C e do complexo B, sendo uma fruta rica em ferro, cálcio e potássio. Possui efeito antioxidante, anti inflamatório e atua na prevenção do câncer.",
+    "quantity": 10,
+    "price": 5.19
+  }
+]
